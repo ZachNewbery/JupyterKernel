@@ -43,7 +43,7 @@ in the `pkg/JupyterKernel` directory of your GAP installation:
 
 or for your user only:
 
-  pip3 install . --user
+    pip3 install . --user
 
 ### Adding JupyterKernel to your PATH
 If GAP is not in your PATH, then you have to set the environment variable
